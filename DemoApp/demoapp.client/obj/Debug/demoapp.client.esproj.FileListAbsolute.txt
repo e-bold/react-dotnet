@@ -1,0 +1,1 @@
+C:\Users\Victius\source\react-dotnet\DemoApp\demoapp.client\obj\Debug\demoapp.client.esproj.CoreCompileInputs.cache

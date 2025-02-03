@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {}
+    "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {
+    "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
         "projectName": "DemoApp.Server",
-        "projectPath": "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
+        "projectPath": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
         "packagesPath": "C:\\Users\\Victius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\obj\\",
+        "outputPath": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

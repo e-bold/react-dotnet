@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmUxwMhuPM4=",
+  "dgSpecHash": "S7xzGeABPtY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victius\\source\\repos\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
+  "projectFilePath": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victius\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.12\\microsoft.aspnetcore.spaproxy.8.0.12.nupkg.sha512",
     "C:\\Users\\Victius\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
