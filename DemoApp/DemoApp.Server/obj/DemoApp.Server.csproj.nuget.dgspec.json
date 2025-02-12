@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/DemoApp.Server/DemoApp.Server.csproj": {}
+    "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {}
   },
   "projects": {
-    "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/DemoApp.Server/DemoApp.Server.csproj": {
+    "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/DemoApp.Server/DemoApp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
         "projectName": "DemoApp.Server",
-        "projectPath": "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/DemoApp.Server/DemoApp.Server.csproj",
-        "packagesPath": "/Users/boldadmin/.nuget/packages/",
-        "outputPath": "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/DemoApp.Server/obj/",
+        "projectPath": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\DemoApp.Server.csproj",
+        "packagesPath": "C:\\Users\\Victius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\DemoApp.Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/boldadmin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Victius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
