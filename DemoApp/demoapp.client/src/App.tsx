@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 
+
 interface Forecast {
     date: string;
     temperatureC: number;
@@ -53,6 +54,32 @@ function App() {
             setForecasts(data);
         }
     }
+}
+
+
+function Sigma() { 
+
+    // Component that load the graph
+    const LoadGraph = () => {
+      const loadGraph = useLoadGraph();
+    
+      useEffect(() => {
+        const graph = new Graph();
+        graph.addNode("first", { x: 0, y: 0, size: 15, label: "My first node", color: "#FA4F40" });
+        loadGraph(graph);
+      }, [loadGraph]);
+    
+      return null;
+    };
+    
+    // Component that display the graph
+    const DisplayGraph = () => {
+      return (
+        <SigmaContainer style={sigmaStyle}>
+          <LoadGraph />
+        </SigmaContainer>
+      );
+    };
 }
 
 export default App;
