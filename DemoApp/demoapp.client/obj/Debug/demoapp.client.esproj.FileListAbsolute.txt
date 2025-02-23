@@ -1,1 +1,2 @@
-C:\Users\Victius\source\react-dotnet\DemoApp\demoapp.client\obj\Debug\demoapp.client.esproj.CoreCompileInputs.cache
+C:/Users/Victius/source/react-dotnet/DemoApp/demoapp.client/obj/Debug/demoapp.client.esproj.CoreCompileInputs.cache
+/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/demoapp.client/obj/Debug/demoapp.client.esproj.CoreCompileInputs.cache

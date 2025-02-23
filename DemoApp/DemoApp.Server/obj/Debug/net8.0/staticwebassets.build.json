@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "hNgcjDHQpPydbTcRx1j0MqggAhhy7tUHSKRMA3HrNK0=",
+  "Hash": "V/T9q0CV6ZqBiG7NQERvANcrxjtBA9NGmVQjLTJdSHs=",
   "Source": "DemoApp.Server",
   "BasePath": "_content/DemoApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Victius\\source\\react-dotnet\\DemoApp\\demoapp.client\\demoapp.client.esproj",
+      "Identity": "/Users/boldadmin/Desktop/Coding/react-dotnet/DemoApp/demoapp.client/demoapp.client.esproj",
       "Version": 2,
       "Source": "demoapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
