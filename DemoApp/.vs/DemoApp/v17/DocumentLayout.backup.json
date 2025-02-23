@@ -55,8 +55,7 @@
               "RelativeToolTip": "DemoApp.Server\\DemoApp.Server.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-03T20:19:21.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T20:19:21.934Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "demoapp.client\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-03T20:19:00.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T20:19:00.754Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "demoapp.client\\tsconfig.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T20:19:12.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T20:19:12.976Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "demoapp.client\\package.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T20:18:56.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T20:18:56.443Z"
             }
           ]
         }
